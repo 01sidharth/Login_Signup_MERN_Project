@@ -20,7 +20,7 @@ This is a full-stack MERN (MongoDB, Express, React, Node.js) project that includ
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-mern-project.git
+   git clone https://github.com/01sidharth/Login_Signup_MERN_Project.git
    cd your-mern-project
 
    
